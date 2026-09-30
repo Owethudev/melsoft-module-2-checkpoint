@@ -1,4 +1,5 @@
-//walthrough for the difference between var,let and const
+// CHALLENGE 1 
+// walthrough for the difference between var,let and const
 
 //dataType is a string , const because my name will never change
 const myName = "Owethu Jezile";
